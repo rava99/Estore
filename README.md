@@ -1,5 +1,8 @@
-Add the Estore folder to htdocs
+# Estore
+Estore is an online store with different products. The products, users and orders are stored in the phpmyadmin database.
 
-Import database to your phpMyAdmin
-
-Go to http://localhost/estore/login.php in your browser
+## Installation
+ Markup : * Download XAMPP
+          * Add the Estore folder to htdocs
+          * Import database to your phpMyAdmin
+          * Open http://localhost/estore/login.php in your browser
