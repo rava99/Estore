@@ -7,3 +7,10 @@ Markup : * Download XAMPP
          * Add the Estore folder to htdocs
          * Import database to your phpMyAdmin
          * Open http://localhost/estore/login.php in your browser
+
+        
+
+ Markup : * Bullet list
+              * Nested bullet
+                  * Sub-nested bullet etc
+          * Bullet list item 2
